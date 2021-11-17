@@ -1,0 +1,20 @@
+.item{
+    width : 20vw;
+    height : 150px;
+    background-color: #DDD;
+    margin: 10px 20px;
+}
+
+.itemContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.breadcrump{
+    color : #4EA869;
+}
+
+.title{
+    font-weight: 800;
+}

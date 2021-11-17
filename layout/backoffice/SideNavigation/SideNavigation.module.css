@@ -1,0 +1,13 @@
+.container{
+    width : 20%;
+    height : 100vw;
+    background-color: #EEE;
+    margin-right:20px ;
+}
+
+.item{
+    width : 80%;
+    height : 30px;
+    background-color: #DDD;
+    margin : 10px auto;
+}

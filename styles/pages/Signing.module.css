@@ -1,0 +1,87 @@
+.container{
+    display: flex;
+}
+
+.banner{
+    width : 65%;
+    height : 100vh;
+    background-color: #4EA869;
+    text-align: center;
+    
+}
+
+.title{
+    width : 100%;
+    font-size: 3rem;
+    font-weight: 800;
+    margin: auto;
+    color : #FFF;
+    vertical-align: center;
+}
+
+.text{
+    color : #FFF;
+    font-size: 1.5rem;
+    font-style: italic ;
+}
+
+.form{
+    background-color: #EEE4;
+    width: 35%;
+    padding : 40px
+}
+
+.input{
+    width : 100%;
+    height : 30px;
+    border : 1px solid #DDD;
+    padding : 10px;
+    margin : 10px 0;
+}
+
+.label{
+    font-size: 0.9rem;
+    /* margin : 0 0 0 10px; */
+}
+
+.submit{
+    border : none;
+    background-color: #4EA869;
+    padding : 10px 20px;
+    color : #FFF;
+    cursor : pointer;
+    width: 100%;
+}
+
+.containerForm_signin{
+    margin-top : 30%;
+}
+
+.containerForm_signup{
+    margin-top : 10%;
+}
+
+.textContainer{
+    margin-top: 30%;
+}
+
+.newAccount{
+    color : rgb(9, 157, 226);
+    cursor: pointer;
+}
+
+.label_newAccount{
+    margin-top : 10px;
+    font-size : 0.8rem;
+    
+}
+
+.select{
+    width : 100%;
+    height : 30px;
+    border : 1px solid #DDD;
+    padding : 5px;
+    margin : 10px 0;
+    border-radius: 3px;
+    background-color: #FFF;
+}
